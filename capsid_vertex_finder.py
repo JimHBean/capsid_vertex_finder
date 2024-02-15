@@ -2,7 +2,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-ICOSAHEDRON VERTEX COORDINATE VISUALIZATION
+CAPSID VERTEX COORDINATES 
 
 This script was made for the visualisation and identification of I2 
 icosahedral vertex coordinates. ONLY I2 symmetry is currently 
@@ -23,6 +23,9 @@ extend from the capsid surface at varying distances. Undefined name errors
 below are not a problem. The script is executed by opening in chimeraX 
 (dragging into the chimeraX window is simplest).   
 
+Coordinates of all vertices for each radius will be printed to the chimeraX
+log (annotated by colour coding). These coordinates are formatted for direct 
+copy into cryoSPARC. 
 
 Created on Sat Jul  1 23:06:12 2023
 
