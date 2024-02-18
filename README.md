@@ -3,4 +3,6 @@ This script was developed while resolving assymetric features in cryo-EM reconst
 
 Intructions for use are written in the .py scripts module docstring at the top of the file. The script requires manual modification of several paramters (pixel size, box size, edge length).
 
+Currently, the script only works for capsids resolved with I2 symmetry imposed (working on expanding this). 
+
 This script was primarily used in conjuncture with cryoSPARC, for 3D box recentering in the volume alignment tools utility.
